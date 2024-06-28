@@ -1,4 +1,4 @@
-# Earning Manipulation Detection Using Decision Tree, Random Forest, and Logistic Regression
+# Earning Manipulation Detection using Decision Tree, Random Forest, and Logistic Regression
 # Problem definition
 A bank provides loans to small and medium-sized businesses, ranging from 10 million to 500 million rupees. The bank suspects that some of its customers might engage in earnings manipulation to increase their chances of securing a loan. Therefore, the bank aims to identify earnings manipulation by its customers.
 
